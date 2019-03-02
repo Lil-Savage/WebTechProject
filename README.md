@@ -6,6 +6,6 @@ advatages of angular framework only.
 Project includes both front and back-end(flask) realization.
 Also we want to add sql database to store books' information.
 Developers are:
-Alisher Uteshev
-Kaisabekov Yeldar
-Kudas Aigerim
+Alisher Uteshev,
+Kaisabekov Yeldar,
+Kudas Aigerim.
